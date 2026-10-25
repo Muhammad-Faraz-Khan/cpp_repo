@@ -1,0 +1,3 @@
+/home/mfk/Code/cpp_learnings/cpp00/ex00/build/CMakeFiles/Helloworld.dir
+/home/mfk/Code/cpp_learnings/cpp00/ex00/build/CMakeFiles/edit_cache.dir
+/home/mfk/Code/cpp_learnings/cpp00/ex00/build/CMakeFiles/rebuild_cache.dir
