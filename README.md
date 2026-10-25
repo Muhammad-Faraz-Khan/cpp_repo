@@ -1,1 +1,2 @@
-### Repository related to personal learning of c++ language
+### Repository related to learning of c++ language
+
