@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/ConsoleLogDisplay.dir/src/LogClass.cpp.o -o ConsoleLogDisplay 
